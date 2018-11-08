@@ -5,21 +5,21 @@
 
 ## Sweetest 
 
-小而美的自动化测试框架 [文档](https://sweetest.top/#/sweetest/)
+小而美的自动化测试框架 [文档](/sweetest/)
 
 
 ## Doo
 
-接口文档及 Mock 工具 [文档](https://sweetest.top/#/doo/)
+接口文档及 Mock 工具 [文档](/doo/)
 
 
 ## inJSON
 
-测试一个 JSON 是否在另一个 JSON 中 [文档](https://sweetest.top/#/injson/)
+测试一个 JSON 是否在另一个 JSON 中 [文档](/injson/)
 
 
 ## Look
 
-验证码识别库 [文档](https://sweetest.top/#/look/)
+验证码识别库 [文档](/look/)
 
 
