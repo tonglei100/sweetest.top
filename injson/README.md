@@ -1,5 +1,3 @@
-![inJSON](https://github.com/tonglei100/injson/blob/master/logo.png?raw=true)
-
 # inJSON
 
 测试一个 JSON 是否在另一个 JSON 中，并返回不一致的键值对；同时可以以变量的形式提取对应路径上的字段值。

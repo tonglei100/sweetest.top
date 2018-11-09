@@ -1,5 +1,3 @@
-![Doo](https://github.com/tonglei100/doo/blob/master/logo.png?raw=true)
-
 # Doo
 
 Doo 是一款简单易用的接口管理解决方案，支持接口文档管理、Mock服务，接口测试等功能。接口文档采用 yaml 或 Excel 格式书写，简单快捷，Mock 基于该文档，无需数据库，一条命令秒变 Mock 服务。

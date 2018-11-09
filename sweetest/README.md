@@ -1,5 +1,3 @@
-![sweetest](https://github.com/tonglei100/sweetest/blob/master/snapshot/logo.png?raw=true)
-
 # sweetest
 
 
