@@ -1,14 +1,6 @@
 # sweetest
 
 
-微信公众号：安装、配置、使用的详细图文说明，最新版本发布更新说明
-
-QQ 交流群：158755338 (验证码：python)
-
-扫描**公众号**及**QQ群**二维码加入我们
-
-![sweetest](https://github.com/tonglei100/sweetest/blob/master/snapshot/sweetest.jpg?raw=true)
-
 ## 介绍
 
 Sweetest 是一款小而美的自动化测试解决方案，同时支持 Web UI，Http 接口，DB 操作测试，Android App 测试，小程序测试；由于开始只支持 Web UI 测试，名字取自 Selenium，Web UI，Excel，Element， Test 含义。
