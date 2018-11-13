@@ -24,7 +24,9 @@
 
 ## 加入我们
 
-QQ 交流群：158755338 (验证码：python) <small>注意首字母小写</small>
+QQ 交流群：**158755338**
+> (验证码：python) <small>注意首字母小写</small>
 
-微信公众号：喜文测试
+微信公众号：**喜文测试**
+
 ![QQ2](/snapshot//QQ.png)![WeChat](/snapshot//WeChat.png)
