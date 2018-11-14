@@ -1,0 +1,7 @@
+- [首页](/)
+- 文档⇣
+	- [sweetest](/sweetest/)
+	- [Doo](/doo/)
+	- [inJSON](/injson/)
+	- [Look](/look/)
+- [随笔](/blog/)
