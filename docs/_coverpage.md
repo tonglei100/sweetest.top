@@ -1,4 +1,4 @@
-![logo](_media/logo.png)
+![logo](_media/sweetest.png)
 
 # 喜文测试 <small>sweeter</small>
 
