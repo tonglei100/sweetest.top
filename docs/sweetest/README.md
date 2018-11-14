@@ -38,7 +38,7 @@ Sweetest 是一款小而美的自动化测试解决方案，同时支持 Web UI�
 3.  用例工具：Excel
 
 测试用例如下图：
-![testcase](https://github.com/tonglei100/sweetest/blob/master/snapshot/testcase.png?raw=true)
+![testcase](../_snapshot/testcase.png)
 
 # 安装
 
@@ -71,13 +71,13 @@ cd sweetest_example
 python start.py
 ```
 
-![install](https://github.com/tonglei100/sweetest/blob/master/snapshot/install.png?raw=true)
+![install](../_snapshot/install.png)
 
 OK，如果一切顺利的话，sweetest 已经跑起来了
 
 # 目录结构
 
-![dir](https://github.com/tonglei100/sweetest/blob/master/snapshot/dir.png?raw=true)
+![dir](../_snapshot/dir.png)
 
 | 目录        | 说明                  |
 | --------------------- | --------------------------------------------------- |
@@ -101,7 +101,7 @@ OK，如果一切顺利的话，sweetest 已经跑起来了
 
 页面元素表的作用主要是把元素定位独立出来，一是方便维护定位信息，二是测试用例中用元素名称书写，可读性更高。
 
-![elements](https://github.com/tonglei100/sweetest/blob/master/snapshot/elements.png?raw=true)
+![elements](../_snapshot/elements.png)
 
 | 字段  | 注释                 |
 | ------- | ---------------------------------------------------- |
@@ -190,7 +190,7 @@ OK，如果一切顺利的话，sweetest 已经跑起来了
 
 # 测试用例
 
-![testcase](https://github.com/tonglei100/sweetest/blob/master/snapshot/testcase.png?raw=true)
+![testcase](_testcase.png)
 
 ## 用例字段
 

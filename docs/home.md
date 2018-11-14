@@ -29,4 +29,4 @@ QQ 交流群：**158755338**
 
 微信公众号：**喜文测试**
 
-![QQ2](/snapshot//QQ.png)![WeChat](/snapshot//WeChat.png)
+![QQ2](_media/QQ.png)![WeChat](_media/WeChat.png)

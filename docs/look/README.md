@@ -59,7 +59,7 @@ python start.py
 
 切图的前提条件是验证码字符能够等分切图，即：无黏连，并且都出现在固定位置，如：
 
-![CUT](https://github.com/tonglei100/look/blob/master/snapshot/captcha.png?raw=true)
+![CUT](../_snapshot/captcha.png)
 
 切图参数在 setting.py 的中 box 中配置。
 
