@@ -72,3 +72,7 @@ Sweetest 使用教程，主要内容为：Web UI 自动化测试，Http 自动�
 腾讯课堂还在申请中，想报名的可以先加入 QQ 群：892550361
 
 ![logo](../_media/QQVIP.jpg)
+
+
+[课程介绍](/ke/course)	
+[课程表](/ke/schedule)
