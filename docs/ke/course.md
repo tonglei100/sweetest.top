@@ -2,7 +2,7 @@
 
 快速、系统地掌握 Sweetest 使用，能够在实际工作中独立快速的开展 Web UI 自动化测试，Http 接口测试；能够把自动化测试部署到的实际研发体系中；能够带领和指导其他同事开展自动化测试工作。
 
-![introduction](../_snapshot/introduction.png)
+![introduction](../_snapshot/auto.png)
 
 ## 课程详情
 
