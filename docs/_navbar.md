@@ -1,5 +1,5 @@
 - [首页](/)
-- [论坛](https://sweeter.io)
+- [社区](https://sweeter.io)
 - 文档⇣
 	- [sweetest](/sweetest/)
 	- [Doo](/doo/)
