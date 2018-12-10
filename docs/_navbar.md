@@ -1,11 +1,8 @@
 - [首页](/)
+- [社区](https://sweeter.io)
 - 文档⇣
 	- [sweetest](/sweetest/)
 	- [Doo](/doo/)
 	- [inJSON](/injson/)
 	- [Look](/look/)
-- 腾讯课堂⇣
-	- [招生计划](/ke/)
-	- [课程介绍](/ke/course)	
-	- [课程表](/ke/schedule)
 - [随笔](/blog/)
