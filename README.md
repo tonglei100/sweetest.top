@@ -2,4 +2,4 @@
 
 > 喜文测试是一系列自动化测试开源项目的集合
 
-文档: https://doc.sweeter.io
+项目文档: https://sweeter.io
