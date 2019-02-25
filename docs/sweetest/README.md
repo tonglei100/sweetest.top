@@ -1,5 +1,6 @@
 # sweetest
 
+[更新日志](/sweetest/log)
 
 ## 介绍
 
@@ -762,11 +763,3 @@ allure serve JUnit
 # 测试报告详细数据，可以自行处理后写入其他测试报告系统
 print(sweet.report_data)
 ```
-
-## 更新日志
-
-2019.02.22 sweetest-0.8.39
-
- - 支持 headless 模式
- - 修复`变量赋值`关键字无效的bug
- - 优化：把`等待时间`的执行顺序提前到`变量替换`之前
