@@ -1,6 +1,20 @@
 # Sweetest 更新日志
 
 
+## 版本 0.9.0 (2019.04.26)
+
+- 初步支持 Windows GUI 测试
+- 增加测试 Windows 记事本的实例
+- 修复 bug：sweetest 命令会创建一个多余的log文件
+- 优化：Excel 测试结果中，测试数据显示变量值
+
+体验 Windows GUI 示例，请先自行安装依赖库
+
+`pip install pypiwin32`
+`pip install pywinauto`
+
+
+
 ## 版本 0.8.51 (2019.04.15)
 
 - 修复 bug：比较全屏截图功能-实际上没有截图
