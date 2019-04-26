@@ -7,6 +7,7 @@
 - 增加测试 Windows 记事本的实例
 - 修复 bug：sweetest 命令会创建一个多余的log文件
 - 优化：Excel 测试结果中，测试数据显示变量值
+- 优化：Excel 汇总结果中，增加执行失败用例列表
 
 体验 Windows GUI 示例，请先自行安装依赖库
 
