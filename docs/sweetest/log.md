@@ -12,6 +12,7 @@
 体验 Windows GUI 示例，请先自行安装依赖库
 
 `pip install pypiwin32`
+
 `pip install pywinauto`
 
 
