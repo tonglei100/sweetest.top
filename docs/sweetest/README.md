@@ -4,7 +4,7 @@
 
 ## 介绍
 
-Sweetest 是一款小而美的自动化测试解决方案，同时支持 Web UI，Http 接口，DB 操作测试，Android App 测试，小程序测试；由于开始只支持 Web UI 测试，名字取自 Selenium，Web UI，Excel，Element， Test 含义。
+Sweetest 是一款小而美的自动化测试解决方案，同时支持 Web UI，Http 接口，DB 操作测试，Android App 测试，小程序测试，Windows GUI 测试；由于开始只支持 Web UI 测试，名字取自 Selenium，Web UI，Excel，Element， Test 含义。
 特点:
 
 1.  简单快速，轻松上手
@@ -237,6 +237,8 @@ OK，如果一切顺利的话，sweetest 已经跑起来了
 | 打开  | 通用  | 百度首页 | 标签页名=百度搜索窗口，`清理缓存=是` |
 
 > 注意：打开操作的页面必须是：`通用`，这也意味着在元素定义表中，链接必须定义在通用中。
+
+支持自定义 cookie，见`自定义 cookie`章节
 
 #### 2.  检查
 
@@ -623,6 +625,21 @@ pip install pypiwin32
 | `$`      | 结尾       | $world   | 以world结尾  |
 | `\`      | 特殊符号转义 | \\*      | 匹配*        |
 | `#`      | 不等于     | #test    | 不为test     |
+
+
+### 自定义 cookie
+
+支持在`打开`操作中添加自定义 cookie
+
+| 操作 | 页面 | 元素 | 测试数据 |
+| --- | --- | --- | ---|
+| 打开 | 通用|百度首页 | 标签页名=百度,,cookie={'domain':'.baidu.com', 'name': 'SWEETEST', 'value': '888888'}|
+
+cookie 可以是通过自定义函数获取
+
+| 操作 | 页面 | 元素 | 测试数据 |
+| --- | --- | --- | ---|
+| 打开 | 通用|百度首页 | 标签页名=百度,cookie=<c.get_cookie()>|
 
 
 ### 截屏及元素截图比较
