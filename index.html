@@ -2,6 +2,11 @@
 <html lang="en">
 <script>
 var _hmt = _hmt || [];
+_hmt.push('_requirePlugin',  'UrlChangeTracker',  {
+     shouldTrackUrlChange:  function (newPath, oldPath)  {
+       return newPath && oldPath; 
+  }
+});
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?fbd66bc0ebc115b0e1a12fa257afe290";
