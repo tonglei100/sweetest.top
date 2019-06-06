@@ -5,7 +5,7 @@
 
 - Windows GUI 测试：支持右击关键字
 - Windows GUI 测试：支持截图和截图对比（用法和 Web 中一致）
-- SQL 测试：支持下 sql 语句中使用函数，如：select Round(price*6, 4) as p from product;
+- SQL 测试：支持 sql 语句中使用函数，如：select Round(price*6, 4) as p from product;
 
 
 ## 版本 0.9.3 (2019.05.31)
