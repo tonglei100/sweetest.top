@@ -1,6 +1,14 @@
 # Sweetest 更新日志
 
 
+## 版本 0.9.6 (2019.06.13)
+
+- Windows GUI 测试：支持 selected, checked, enabled, visible, focused 等状态检查
+- Windows GUI 测试：支持重置窗口(即关闭其他窗口，直到指定窗口在最前面)
+- 优化 float 比较
+- 编写一小部分 Windows GUI 自动化测试文档
+
+
 ## 版本 0.9.5 (2019.06.06)
 
 - Windows GUI 测试：支持右击关键字
