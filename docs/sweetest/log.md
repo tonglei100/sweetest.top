@@ -6,7 +6,8 @@
 - 域名更改：
 
 文档：https://sweeter.io
-社区: https://o.sweeter.io
+
+社区: https://o.sweeter.io (精力有限，无法及时维护，有问题建议在 Github 上提 issue)
 
 - 增加左侧入参函数功能（简称：左侧函数），用于检查关键字中。
 
