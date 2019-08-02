@@ -877,7 +877,7 @@ f 用来比较数值。
 
 ## 文件及命令行
 
-文件操作是通过调用系统的命令行来实现的，如 Windows 上拷贝文件 `copy doc/test.txt back/`，支持通配符，如 `copy doc/*.txt back/`，文件操作同时支持 Windows 和 linux 或 Mac，框架已做了适配。
+文件操作是通过调用系统的命令行来实现的，如 Windows 上拷贝文件 `copy doc\test.txt back\`，支持通配符，如 `copy doc\*.txt back\`，文件操作同时支持 Windows 和 linux 或 Mac，框架已做了适配。
 
 ### 文件操作
 
