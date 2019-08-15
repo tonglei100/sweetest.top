@@ -2,7 +2,7 @@
 - [社区](https://o.sweeter.io)
 - 文档⇣
 	- [sweetest](/sweetest/)
-	- [Pai](/pai)
+	- [Pai](/pai/)
 	- [Doo](/doo/)
 	- [inJSON](/injson/)
 	- [Look](/look/)
