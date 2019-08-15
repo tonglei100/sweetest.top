@@ -6,6 +6,8 @@
 
 Sweetest: 小而美的自动化测试框架
 
+Pai: 极简 RPA 框架
+
 Doo: 接口文档及 Mock 工具
 
 inJSON: 测试一个 JSON 是否在另一个 JSON 中
