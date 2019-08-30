@@ -87,13 +87,13 @@ python api.py
 
 ## 函数调用
 
-Pai 是通过调用 agent 上的函数来执行任务的。函数应该放在 agent/lib 目录。
+Pai 是通过调用 agent 上的函数来执行任务的。函数文件(如`files.py`)应该放在 `agent/lib` 目录。
 编写计划步骤时，主要的调用参数如下：
 
 ```python
 {'agent': 'FUND', 'moudle': 'files', 'function': 'exists', 'data':{'dir': '', 'path': 'app.py'}}
 ```
 
-其中 files 就是 lib 的文件名，exists 就是 files.py 文件中的函数名，data 是 exists 函数的实参。
+其中 `files` 就是 `lib` 下的函数文件名（不用带后缀 `.py`），`exists` 就是 `files.py` 文件中的函数名，`data` 的值是 `exists` 函数的实参。
 
-备注：files.py 是一个测试文件，其中加入随机等待时间，方便测试时观察。
+备注：`files.py` 是一个测试文件，其中加入随机等待时间，方便测试时观察。
