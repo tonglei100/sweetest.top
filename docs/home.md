@@ -27,11 +27,6 @@
 验证码识别工具 [文档](/look/)
 
 
-## 赞赏一下
-
-![WePay](_media/sponsor.jpeg)
-
-
 ## 加入我们
 
 QQ 交流群：**941761748**
@@ -39,4 +34,4 @@ QQ 交流群：**941761748**
 
 微信公众号：**喜文测试**
 
-![QQ2](_media/QQ.png)![WeChat](_media/WeChat.png)
+![QQ2](_media/bar.png)
