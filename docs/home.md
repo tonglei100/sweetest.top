@@ -34,4 +34,4 @@ QQ 交流群：**941761748**
 
 微信公众号：**喜文测试**
 
-![QQ2](_media/QQ.png)![WeChat](_media/WeChat.png)![WePay](_media/WePay.png)
+![QQ2](_media/QQ.png)![WeChat](_media/WeChat.png)![WePay](_media/sponsor.jpeg)
