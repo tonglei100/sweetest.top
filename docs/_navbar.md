@@ -6,5 +6,5 @@
 	- [Doo](/doo/)
 	- [inJSON](/injson/)
 	- [Look](/look/)
-- [赞赏]
+- [赞赏](/sponsor)
 	- ![sponsor](_media/sponsor.jpeg)
