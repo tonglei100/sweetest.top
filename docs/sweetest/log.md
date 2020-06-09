@@ -1,6 +1,28 @@
 # Sweetest 更新日志
 
 
+## 版本 1.1.1 (20200605)
+
+- 支持 mongodb 数据库操作
+
+用法：
+
+1. 在 Elements.xlsx 文件中定义 MongoDB 连接参数
+
+| page | element | by  | value             |
+| ---  | ------- | --- | ----------------- |
+|mongo | config |   |type=Mongodb,host=127.0.0.1,port=27017,dbname=stock|
+
+如果有用户名、密码，value 中需加上：user=xxx,password=xxxxx
+
+2. 测试用例中，按如下格式填写：
+
+| 操作 | 页面    | 元素                     |  测试数据          |  预期结果  |  输出数据 |
+| ---  | ------ | ------------------------ | ----------------- | ---------- | -------- |
+| SQL  | mongo   | sql#db.kline.find_one() | symbol=SZ300789   |            | symbol=symbol |
+
+其中的元素，sql 值需以 db 开头，kline 为 collection 名，find_one 为 pymongo 库支持的操作。
+
 ## 版本 1.1 (20200410)
 
 - 支持 `<<var>>` 变量格式
