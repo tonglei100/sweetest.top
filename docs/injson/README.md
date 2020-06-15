@@ -16,11 +16,11 @@ from injson import check
 
 sub = {"code": 200,
        "error": "hello, world",
-       "name": "<name>",                # 以 <name> 扩起来的字符串视为变量 name \
-       "phone": "<phone>",              # 该变量将从 parent 中对应位置提取值
-       "result[0]": "<result01>",       # 取 result[0]元素值
-       "result[0]['status']": "<status01>", # 取 result[0]['status']元素值
-       "result[2]['status']": "yes",    # result[2]['status'] 应为 yes     
+       "name": "<name>",                 # 以 <name> 扩起来的字符串视为变量 name \
+       "phone": "<phone>",               # 该变量将从 parent 中对应位置提取值
+       "result[0]": "<result01>",        # 取 result[0]元素值
+       "result[0].status": "<status01>", # 取 result[0].status 元素值
+       "result[2].status": "yes",        # 预期 result[2].status 值为 yes     
        "result": [
            {"sweetest": "OK",
             "status": "<status>"
@@ -66,18 +66,18 @@ print(result)
     "code": 2,                          # 键值对不一致的个数，当值为 0 时，表示全部一致
 
     "result": {                         # 比较出不一致的键值对，并放在此 dict
-        "/['error']": {                     # 键的路径，以 / 开头
+        "/error": {                     # 键的路径，以 / 开头
             "code": 1,                  # 错误类型：1-值不一致，2-数据类型不一致，\
                                         # 3-键不存在, 4-预期键不存在，实际键存在
             "sv": "hello,word",         # sv 全拼为 sub_value, sub json 中对应键的值
-            "pp": "/['error']",             # pp 全拼为 parent_path, parent json 中对应键的路径
+            "pp": "/error",             # pp 全拼为 parent_path, parent json 中对应键的路径
             "pv": "you are bad"         # pv 全拼为 parent_value, parent json 中对应键的值
         },
 
-        "/['result'][1]['ages']": {            # 如果是 list，则以 [i] 表示路径
+        "/result.[1].ages": {            # 如果是 list，则以 [i] 表示路径
             "code": 1,
             "sv": [1, 2, 4],
-            "pp": "/['result'][2]['ages']",    # 对于 list，其下标不一定一致。
+            "pp": "/result[2].ages",    # 对于 list，其下标不一定一致。
             "pv": [ 1, 2, 3]
         }
     },
