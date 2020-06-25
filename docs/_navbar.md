@@ -5,5 +5,5 @@
 	- [Doo](/doo/)
 	- [inJSON](/injson/)
 	- [Look](/look/)
-- [测试报告 Demo](https://report.sweeter.io/#/)
+- [测试报告](https://report.sweeter.io/#/)
 - [赞赏](/sponsor)
