@@ -1,9 +1,9 @@
 - [首页](/)
-- [社区](https://o.sweeter.io)
 - 文档⇣
 	- [sweetest](/sweetest/)
 	- [Pai](/pai/)
 	- [Doo](/doo/)
 	- [inJSON](/injson/)
 	- [Look](/look/)
+- [测试报告 Demo](https://report.sweeter.io/#/)
 - [赞赏](/sponsor)
