@@ -31,7 +31,7 @@
     sweet.plan()
 
     # 生成 Web 测试报告，'D:\\report' 为 report 生成的目录
-    sweet.md('D:\\report')
+    sweet.report(r'D:\report')
     ```
 
 2. 执行自动化测试
