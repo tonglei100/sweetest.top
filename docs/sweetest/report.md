@@ -24,7 +24,15 @@
 
 ## 自动化测试接入 Web 测试报告 
 
-1. 请在启动脚本（如：start.py）里添加生成测试报告的代码 
+1. snapshot 映射，打开 cmd，执行如下命令行
+
+```bash
+mklink /j D:\report\report\snapshot D:\sweetest_example\snapshot
+```
+注意，命令行汇总 D:\report\ 为 report 目录，D:\sweetest_example 为自动化测试目录
+
+
+2. 请在启动脚本（如：start.py）里添加生成测试报告的代码 
 
     ```Python
     # 执行自动化测试
@@ -34,6 +42,6 @@
     sweet.report(r'D:\report')
     ```
 
-2. 执行自动化测试
+3. 执行自动化测试
 
-3. 查看 Web 测试报告
+4. 查看 Web 测试报告
