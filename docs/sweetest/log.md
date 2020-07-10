@@ -49,7 +49,7 @@
 
 | 操作 | 页面    | 元素                     |  测试数据          |  预期结果  |  输出数据 |
 | ---  | ------ | ------------------------ | ----------------- | ---------- | -------- |
-| SQL  | mongo   | sql#db.kline.find_one() | json={"symbol": "SZ300789", "price": "\<price\>"}   |            | symbol=symbol |
+| SQL  | mongo   | sql#db.kline.find_one() | json={"symbol": "SZ300789", "price": "\<price\>"},,   |            | symbol=symbol |
 
 
 
