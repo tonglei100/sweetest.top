@@ -76,15 +76,15 @@ visible_text 可以简写为 text：
 
 优化字段如下：
 
-| 原字段        | 新的标准写法  |
+| 原字段        | 新的标准写法 |
 | -----------  | -----------  |
-| 全局等待时间  | #wait_times   |
+| 全局等待时间  | #wait_times  |
 | 等待时间      | #wait_time   |
 | 标签页名      | #tab_name    |
 | 打开方式      | #open_type   |
+| 循环结束条件  | #break       |
 | #ScreenShot  | #screen_shot |
-| #ElementShot | #element_shot |
-
+| #ElementShot | #element_shot|
 
 ## 版本 1.2.3 (20200710)
 
