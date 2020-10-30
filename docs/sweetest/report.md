@@ -1,6 +1,6 @@
-# Web 版测试报告使用帮助
+# Web 版测试报告配置说明
 
-## 安装 Web 版测试报告
+## 一、安装 docsify
 
 1. 安装 nodejs
 
@@ -9,20 +9,23 @@
     ```bash
     npm i docsify-cli -g
     ```
+## 二、生成测试报告目录
 
-3. 生成 report 目录：请合适的目录（如 `D:\` 盘）打开 cmd，执行如下命令行
+1. 生成 report 目录：请在合适的目录（如 `D:\` 盘）打开 cmd，执行如下命令行
 
     ```bash
     report
     ```
 
-4. 在该目录（如 `D:\report` 盘）打开 cmd，执行如下命令行
+2. 启动网站，在该目录（如 `D:\report` 盘）打开 cmd，执行如下命令行
 
     ```bash
     docsify serve
     ```
+    在浏览器中打开：http://localhost:3000
 
-## 自动化测试接入 Web 测试报告
+
+## 三、自动化测试接入 Web 测试报告
 
 1. snapshot 映射到 Web 目录
 
@@ -47,3 +50,7 @@ sweet.report(r'D:\report')
 3. 执行自动化测试
 
 4. 查看 Web 测试报告
+
+请确保已经按之前步骤启动了网站
+
+在浏览器中打开：http://localhost:3000
