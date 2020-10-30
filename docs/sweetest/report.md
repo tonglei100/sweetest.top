@@ -45,12 +45,11 @@ sweet.plan()
 
 # 生成 Web 测试报告，'D:\report' 为 report 生成的目录
 sweet.report(r'D:\report')
-    ```
+```
 
 3. 执行自动化测试
 
 4. 查看 Web 测试报告
 
-请确保已经按之前步骤启动了网站
-
-在浏览器中打开：http://localhost:3000
+    请确保已经按之前步骤启动了网站
+    在浏览器中打开：http://localhost:3000
