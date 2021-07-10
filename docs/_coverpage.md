@@ -1,8 +1,8 @@
 ![logo](_media/sweeter.png)
 
-# 喜文测试 <small>sweeter</small>
+# Sweet
 
-> 一系列自动化测试开源项目
+> 一个可持续发展的自动化测试生态系统
 
 Sweetest: 小而美的自动化测试框架
 

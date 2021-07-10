@@ -9,7 +9,7 @@
 
 ## Sweet
 
-Sweet 升级版，可持续发展的自动化测试生态系统 [文档](/sweet/)
+Sweet 升级版 [文档](/sweet/)
 
 
 ## inJSON
