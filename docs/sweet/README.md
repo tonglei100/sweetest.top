@@ -59,7 +59,7 @@ python app.py
 python start.py
 ```
 
-![sweet run log](../_snapshot/runlog.png)
+![sweet run log](../_snapshot/runlog.png) 
 
 ## 与 Sweetest 不同之处
 
