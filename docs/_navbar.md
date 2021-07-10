@@ -1,7 +1,6 @@
 - [首页](/)
-- 文档⇣
-	- [Sweetest](/sweetest/)
-	- [Sweet](/sweet/)	
-	- [inJSON](/injson/)
+- [Sweetest](/sweetest/)
+- [Sweet](/sweet/)	
+- [inJSON](/injson/)
 - [测试报告](https://report.sweeter.io/#/)
 - [赞赏](/sponsor)
