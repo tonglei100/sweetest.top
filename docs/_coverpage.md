@@ -10,6 +10,6 @@ Sweet: Sweetest 的升级版
 
 inJSON: 测试一个 JSON 是否在另一个 JSON 中
 
-[GitHub](https://github.com/tonglei100/)
+[GitHub](https://github.com/sweeterio/)
 
-[开始](#喜文测试)
+[开始](#Sweet)
