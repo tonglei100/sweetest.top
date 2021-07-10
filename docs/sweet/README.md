@@ -38,12 +38,10 @@ pip install sweet
 pip install -U sweet
 ```
 
-### 初始化项目
+### 下载示例项目
 
-在命令行中输入：
-```
-sweet
-```
+https://github.com/sweeterio/sweet_example
+
 
 ### 启动 「测试报告」 服务
 
@@ -61,6 +59,8 @@ python app.py
 python start.py
 ```
 
+![sweet run log](../_snapshot/runlog.png)
+
 ## 与 Sweetest 不同之处
 
 ### 用例组织结构
@@ -70,7 +70,7 @@ Sweet 改进了用例组织结构
 ```shell
 sweet_example            # Sweet 自动化测试工作目录
 ├─log                    # 执行日志目录
-│  ├─xxx测试计划          # 测试计划日志目录
+│  ├─xxx测试计划         # 测试计划日志目录
 │  └─...
 ├─report                 # 测试报告目录
 │  └─xxx测试计划
