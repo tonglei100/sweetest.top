@@ -62,7 +62,6 @@ pip install -U sweet.web
 https://github.com/sweeterio/sweet_example
 
 
-
 #### 启动 Web「测试报告」服务
 
 在项目目录（sweet_example），用命令行执行如下命令：
@@ -70,6 +69,9 @@ https://github.com/sweeterio/sweet_example
 ```
 python app.py
 ```
+
+打开网页：http://127.0.0.1:80 查看测试报告
+
 
 #### 执行自动化测试示例
 
