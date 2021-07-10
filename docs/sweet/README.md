@@ -26,34 +26,54 @@ Sweet 的愿景是构建一个可持续发展的自动化测试生态系统，�
 
 ### 安装及配置
 
-#### 安装
+#### 安装 sweet
 
 ```
 pip install sweet
 ```
 
-#### 更新
+#### 按需安装官方`关键字模块`
+
+```
+pip install sweet.web
+pip install sweet.http
+pip install sweet.mobile
+pip install sweet.db
+pip install sweet.file
+```
+
+#### 更新 sweet
 
 ```
 pip install -U sweet
 ```
 
-### 下载示例项目
+更新官方`关键字模块`
+
+```
+pip install -U sweet.web
+......
+```
+
+### 启动 Web「测试报告」服务
+
+#### 下载示例项目
 
 https://github.com/sweeterio/sweet_example
 
 
-### 启动 「测试报告」 服务
 
-在项目目录（sweet_example）下，用命令行执行如下命令：
+#### 启动 Web「测试报告」服务
+
+在项目目录（sweet_example），用命令行执行如下命令：
 
 ```
 python app.py
 ```
 
-### 执行自动化测试示例
+#### 执行自动化测试示例
 
-在项目目录下，用命令行执行如下命令：
+在项目目录下（sweet_example），用命令行执行如下命令：
 
 ```
 python start.py
