@@ -5,7 +5,7 @@
 
 ## Sweet
 
-Sweet 升级版 [文档](/sweet/)
+Sweetest 的升级版 [文档](/sweet/)
 
 
 ## inJSON
@@ -19,5 +19,3 @@ QQ 交流群：**941761748**
 > (验证码：python) <small>注意首字母小写</small>
 
 微信公众号：**喜文测试**
-
-![QQ2](_media/bar.png)

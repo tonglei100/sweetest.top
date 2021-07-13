@@ -3,4 +3,3 @@
 - [Sweet](/sweet/)	
 - [inJSON](/injson/)
 - [测试报告](https://report.sweeter.io/#/)
-- [赞赏](/sponsor)
