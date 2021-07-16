@@ -31,10 +31,20 @@ Sweet 的愿景是构建一个寂静生长的测试生态，优势如下：
 1. Windows 10
 2. Python 3.9
 
+
 #### 安装 sweet
+
+- 授权用户请安装 sweet
 
 ```
 pip install sweet
+```
+> sweet 为正式版，需获取授权文件方可使用
+
+- 体验版请安装 sweet.test 试用
+
+```
+pip install sweet.test
 ```
 
 #### 按需安装官方`关键字模块`
@@ -64,8 +74,13 @@ pip install -U sweet.web
 
 #### 下载示例项目
 
+授权用户请下载
+
 https://github.com/sweeterio/sweet_example
 
+体验版请下载
+
+https://github.com/sweeterio/test_example
 
 #### 启动 Web「测试报告」服务
 
