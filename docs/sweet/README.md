@@ -21,6 +21,14 @@ Sweet 的愿景是构建一个寂静生长的测试生态，优势如下：
 6. 并发执行：提高了执行效率
 7. 多端执行：满足不同场景需求
 
+- 测试用例示例
+
+    ![testcase](../_snapshot/sweetcase.png)
+
+- 元素列表示例
+
+    ![testcase](../_snapshot/sweetelement.png)
+
 
 ## 一、使用说明
 
